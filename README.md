@@ -1,5 +1,22 @@
 # 💫 About Me:
-I’m currently working on<br><br>FlexKicks <br>👯 I’m looking to collaborate on<br><br>Open Source Frontend Projects – especially those using Html.css and javascript<br><br>🤝 I’m looking for help with<br><br>Advanced GSAP Animations – pushing my UI motion design skills further<br><br>🌱 I’m currently learning<br><br>Next.js, Framer, Webflow, and UI/UX Design Principles<br><br>💬 Ask me about<br><br>React, Vue, GSAP, and turning Figma designs into responsive websites<br><br>📫 How to reach me<br><br>Email: tj015748@gmail.com<br><br>
+🔭 I’m currently working on  
+**FlexKicks** – a responsive web project  
+
+👯 I’m looking to collaborate on  
+**Frontend projects** using **HTML, CSS, and JavaScript**  
+
+🤝 I’m looking for help with  
+**Improving my JavaScript basics and making projects more interactive**  
+
+🌱 I’m currently learning  
+**Next.js, Framer, Webflow, and UI/UX Design Principles**  
+
+💬 Ask me about  
+**Building simple websites with HTML, CSS, and Bootstrap**  
+
+📫 How to reach me  
+**Email:** tj015748@gmail.com  
+
 
 
 # 💻 Tech Stack:
@@ -9,16 +26,7 @@ I’m currently working on<br><br>FlexKicks <br>👯 I’m looking to collaborat
 ![](https://nirzak-streak-stats.vercel.app/?user=pxp-tejas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pxp-tejas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pxp-tejas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pxp-tejas&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pxp-tejas&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
