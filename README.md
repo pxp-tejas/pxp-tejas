@@ -9,7 +9,7 @@
 **Improving my JavaScript basics and making projects more interactive**  
 
 🌱 I’m currently learning  
-**Next.js, Framer, Webflow, and UI/UX Design Principles**  
+**Adobe Photoshop, Adobe Illustrator, Figma, Framer, Webflow, and UI/UX Design Principles**  
 
 💬 Ask me about  
 **Building simple websites with HTML, CSS, and Bootstrap**  
