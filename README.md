@@ -12,7 +12,7 @@
 **Adobe Photoshop, Adobe Illustrator, Figma, Framer, Webflow, and UI/UX Design Principles**  
 
 💬 Ask me about  
-**Building simple websites with HTML, CSS, and Bootstrap**  
+**Building simple websites with HTML, CSS, Javascript and Bootstrap**  
 
 📫 How to reach me  
 **Email:** tj015748@gmail.com  
