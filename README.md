@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  
-**FlexKicks** – a responsive web project  
+**Travira** – a responsive web project  
 
 👯 I’m looking to collaborate on  
 **Frontend projects** using **HTML, CSS, and JavaScript**  
